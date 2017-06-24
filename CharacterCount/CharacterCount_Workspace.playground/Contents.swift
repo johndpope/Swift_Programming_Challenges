@@ -6,7 +6,7 @@
 
 import UIKit
 
-func mostRepeatedCharacter(str: String) {
+func characterCount(str: String) {
     
     
 }
